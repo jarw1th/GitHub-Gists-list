@@ -148,9 +148,9 @@
 				DEVELOPMENT_TEAM = QN6RC23FCQ;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "GitHub-Gists-list/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Gists list";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -175,9 +175,9 @@
 				DEVELOPMENT_TEAM = QN6RC23FCQ;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "GitHub-Gists-list/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Gists list";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",

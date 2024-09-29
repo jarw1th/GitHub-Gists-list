@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 77;
+	objectVersion = 70;
 	objects = {
 
 /* Begin PBXFileReference section */
@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		212B91622CA6C15C009F9344 /* Exceptions for "GitHub-Gists-list" folder in "GitHub-Gists-list" target */ = {
+		212B91622CA6C15C009F9344 /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -21,14 +21,7 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		212B91522CA6C15B009F9344 /* GitHub-Gists-list */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				212B91622CA6C15C009F9344 /* Exceptions for "GitHub-Gists-list" folder in "GitHub-Gists-list" target */,
-			);
-			path = "GitHub-Gists-list";
-			sourceTree = "<group>";
-		};
+		212B91522CA6C15B009F9344 /* GitHub-Gists-list */ = {isa = PBXFileSystemSynchronizedRootGroup; exceptions = (212B91622CA6C15C009F9344 /* PBXFileSystemSynchronizedBuildFileExceptionSet */, ); explicitFileTypes = {}; explicitFolders = (); path = "GitHub-Gists-list"; sourceTree = "<group>"; };
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +92,7 @@
 				};
 			};
 			buildConfigurationList = 212B914B2CA6C15B009F9344 /* Build configuration list for PBXProject "GitHub-Gists-list" */;
+			compatibilityVersion = "Xcode 15.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -107,7 +101,6 @@
 			);
 			mainGroup = 212B91472CA6C15B009F9344;
 			minimizedProjectReferenceProxies = 1;
-			preferredProjectObjectVersion = 77;
 			productRefGroup = 212B91512CA6C15B009F9344 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
